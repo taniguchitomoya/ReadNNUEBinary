@@ -60,7 +60,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ReadNNBinary\ReadNNUEBinary.csproj">
+    <ProjectReference Include="..\ReadNNUEBinary\ReadNNUEBinary.csproj">
       <Project>{668ed3fc-63af-4e4e-90fd-b2fff6129525}</Project>
       <Name>ReadNNUEBinary</Name>
     </ProjectReference>
